@@ -168,3 +168,47 @@ h1{
     top: -70px;
     left: 100px;
 }
+
+/* ------ Strip section 02 ------- */
+
+#strip {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+}
+
+.frame-strip {
+    width: 30%;
+    text-align: center;
+    color: #f1f1f1;
+    margin: 50px 20px 70px;
+}
+
+.frame-strip h3 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-family: Montserrat, Helvetica, sans-serif;
+}
+
+.frame-strip p {
+    font-size: 18px;
+    width: 70%;
+    margin: 0 auto 30px;
+}
+
+.btn-outline-strip {
+    width: 300px;
+    padding: 15px 0;
+    font-size: 22px;
+    background: black;
+    color: #f1f1f1;
+    border: 1px solid #f1f1f1;
+    cursor: pointer;
+}
+
+.btn-outline-strip {
+    transition: all 0.2s ease-in-out;
+    background: #fff;
+    color: black;
+}
