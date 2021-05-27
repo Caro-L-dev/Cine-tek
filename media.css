@@ -104,3 +104,60 @@
         margin: 0 10px 45px;
     }
 }
+
+/* ------ Strip section : Medias queries ------- */
+
+@media  and (max-width: 1200px) {
+    .frame-strip {
+        width: 400px;
+    }
+}
+
+@media  and (max-width: 775px) {
+    #strip {
+        flex-direction: column;
+    }
+
+    .frame-strip h3 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .btn-outline-strip {
+        width: 250px;
+    }
+
+    .frame-strip {
+        width: 350px;
+        margin: 50px 0px 70px;
+    }
+
+    .frame-strip:nth-child(1) {
+        margin: 50px 20px 0px;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #strip {
+        flex-direction: column;
+    }
+
+    .frame-strip h3 {
+        font-size: 40px;
+        margin-bottom: 20px;
+    }
+
+    .btn-outline-strip {
+        width: 250px;
+    }
+
+    .frame-strip {
+        width: 350px;
+        margin: 50px 0px 70px;
+    }
+
+    .frame-strip:nth-child(1) {
+        margin: 50px 20px 0px;
+    }
+}
+
