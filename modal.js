@@ -11,4 +11,9 @@ btns.forEach(btn => {
 
         facilitiesModal.classList.add('active-modal');
     })
+});
+
+/* If I click anywhere in the category facilities, it closes the current picture */
+facilitiesModal.addEventListener('click', () => {
+    facilitiesModal.classList.remove('active-modal');
 })
