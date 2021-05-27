@@ -7,6 +7,10 @@
     letter-spacing: 0.2em;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     font-family: Roboto, Helvetica, sans-serif;
     background: #f1f1f1;
