@@ -20,6 +20,6 @@ if(window.matchMedia("(min-width: 850px").matches){
     facilitiesModal.addEventListener('click', () => {
         facilitiesModal.classList.remove('active-modal');
     });
-}
+};
 
 
