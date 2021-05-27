@@ -102,3 +102,17 @@
     cursor: pointer;
     border: none;
 }
+
+/* ------ Facilities section 03 : Media queries ------- */
+
+@media screen and (max-width: 850px) {
+    .title-facilities {
+        font-size: 45px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .title-facilities {
+        font-size: 35px;
+    }
+}
