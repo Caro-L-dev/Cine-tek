@@ -30,6 +30,7 @@
     overflow: hidden;
     background-size: cover;
     background-position: center;
+    border-radius: 3%;
 }
 
 .btn-modal:nth-child(1) {

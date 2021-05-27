@@ -1,7 +1,6 @@
 /* ------ Parallax ------- */
 .parallax {
     background-image: url(ressources/img-paral.jpg);
-    /* background: blue; */
     background-attachment: fixed;
     background-position: center;
     width: 100%;
