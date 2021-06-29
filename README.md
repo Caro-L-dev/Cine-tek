@@ -1,4 +1,4 @@
-# Gym-Website
+# Cine'tek
 
 Link: https://gifted-varahamihira-ef95e1.netlify.app/?#rates
 
