@@ -51,8 +51,8 @@
     font-size: 25px;
 }
 .infos-card {
-    width: 5em;
-    margin: 20px auto 40px;
+    width: 10em;
+    margin: 1em auto 2em;
     display: flex;
     justify-content: center;
     align-items: center;
